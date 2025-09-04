@@ -19,29 +19,30 @@ body {
   flex-direction: row;
 }
 
-.hero-main {
-  display: flex;
-  flex-direction: row;
-}
-
-.hero-left {
-  display: flex;
-  flex-direction: column;
-}
-
 .header-logo {
   font-size: 24px;
   color: #F9FAF8;
 }
 
+.header-links {
+  display: flex;
+  flex-direction: row;
+}
+
 .header-links ul {
   list-style-type: none;
+  margin: 0;
 }
 
 .header-links a {
   font-size: 18px;
   color: #E5E7EB;
   text-decoration: none;
+}
+
+.hero-main {
+  display: flex;
+  flex-direction: row;
 }
 
 .hero-main h1 {
@@ -53,4 +54,9 @@ body {
 .hero-main p {
   font-size: 18px;
   color: #E5E7EB;
+}
+
+.hero-left {
+  display: flex;
+  flex-direction: column;
 }
