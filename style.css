@@ -6,6 +6,13 @@ body {
   margin: 0;
 }
 
+button {
+  color: #F9FAF8;
+  font-size: 18px;
+  background-color: #3882F6;
+  border-radius: 10px;
+}
+
 .hero {
   background-color: #1F2937;
   min-width: 100vh;
