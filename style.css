@@ -26,6 +26,10 @@ body {
   color: #F9FAF8;
 }
 
+.header-links {
+  margin-left: auto;
+}
+
 .header-links ul {
   display: flex;
   flex-direction: row;
