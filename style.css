@@ -11,19 +11,20 @@ body {
   min-width: 100vh;
   display: flex;
   flex-direction: column;
-  padding: 10px 48px 48px 48px;
+  padding: 10px 100px 50px 100px;
 }
 
 .header {
   display: flex;
   flex-direction: row;
   height: 30px;
-  align-items: center;
+  align-items: flex-start;
   justify-content: space-between;
 }
 
 .header-logo {
   font-size: 24px;
+  font-weight: bold;
   color: #F9FAF8;
 }
 
@@ -33,7 +34,7 @@ body {
   list-style-type: none;
   margin: 0;
   padding: 0;
-  gap: 10px;
+  gap: 20px;
 }
 
 .header-links a {
@@ -51,6 +52,7 @@ body {
   font-size: 48px;
   color: #F9FAF8;
   font-weight: 900;
+  margin: 0;
 }
 
 .hero-main p {
