@@ -4,6 +4,10 @@ body {
   flex-direction: column;
 }
 
+a {
+  text-decoration: none;
+}
+
 .hero {
   background-color: #1F2937;
 }
@@ -17,7 +21,6 @@ body {
   font-size: 18px;
   color: #E5E7EB;
   list-style-type: none;
-  text-decoration: none;
 }
 
 .hero-main h1 {
