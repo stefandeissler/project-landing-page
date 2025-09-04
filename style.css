@@ -11,12 +11,14 @@ body {
   width: 100%;
   display: flex;
   flex-direction: column;
-  padding: 48px;
+  padding: 10px 48px 48px 48xp;
 }
 
 .header {
   display: flex;
   flex-direction: row;
+  height: 30px;
+  align-items: center;
 }
 
 .header-logo {
