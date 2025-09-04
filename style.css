@@ -68,12 +68,14 @@ body {
   display: flex;
   flex-direction: column;
   gap: 5px;
+  flex: 1 0 400px;
 }
 
 .hero-right {
   display: flex;
   flex-direction: column;
   background-color: gray;
+  flex: 1 0 400px;
 }
 
 .hero-right .image {
