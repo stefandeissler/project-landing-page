@@ -24,14 +24,13 @@ body {
   color: #F9FAF8;
 }
 
-.header-links {
+.header-links ul {
   display: flex;
   flex-direction: row;
-}
-
-.header-links ul {
   list-style-type: none;
   margin: 0;
+  padding: 0;
+  gap: 10px;
 }
 
 .header-links a {
