@@ -2,10 +2,31 @@ body {
   font-family: Roboto, Arial, sans-serif;
   display: flex;
   flex-direction: column;
+  padding: 0;
+  margin: 0;
 }
 
 .hero {
   background-color: #1F2937;
+  width: 100%;
+  display: flex;
+  flex-direction: column;
+  padding: 48px;
+}
+
+.header {
+  display: flex;
+  flex-direction: row;
+}
+
+.hero-main {
+  display: flex;
+  flex-direction: row;
+}
+
+.hero-left {
+  display: flex;
+  flex-direction: column;
 }
 
 .header-logo {
