@@ -52,12 +52,14 @@ body {
   font-size: 48px;
   color: #F9FAF8;
   font-weight: 900;
-  margin: 0;
+  margin-bottom: 0;
 }
 
 .hero-main p {
   font-size: 18px;
   color: #E5E7EB;
+  margin-top: 5px;
+  margin-bottom: 5px;
 }
 
 .hero-left {
