@@ -46,6 +46,8 @@ body {
 .hero-main {
   display: flex;
   flex-direction: row;
+  gap: 20px;
+  align-items: center;
 }
 
 .hero-main h1 {
