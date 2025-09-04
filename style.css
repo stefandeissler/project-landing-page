@@ -18,9 +18,12 @@ a {
 }
 
 .header-links ul {
+  list-style-type: none;
+}
+
+.header-links li {
   font-size: 18px;
   color: #E5E7EB;
-  list-style-type: none;
 }
 
 .hero-main h1 {
