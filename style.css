@@ -4,10 +4,6 @@ body {
   flex-direction: column;
 }
 
-a {
-  text-decoration: none;
-}
-
 .hero {
   background-color: #1F2937;
 }
@@ -21,9 +17,10 @@ a {
   list-style-type: none;
 }
 
-.header-links li {
+.header-links a {
   font-size: 18px;
   color: #E5E7EB;
+  text-decoration: none;
 }
 
 .hero-main h1 {
