@@ -77,10 +77,6 @@ body {
   background-color: gray;
   flex: 1 0 400px;
   align-self: stretch;
-}
-
-.hero-right .image {
-  display: flex;  
   justify-content: center;
   align-items: center;
 }
