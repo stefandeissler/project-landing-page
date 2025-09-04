@@ -3,3 +3,24 @@ body {
   display: flex;
   flex-direction: column;
 }
+
+.hero {
+  background-color: #1F2937;
+}
+
+.header-logo {
+  font-size: 24px;
+  color: #F9FAF8;
+}
+
+.header-links ul {
+  font-size: 18px;
+  color: #E5E7EB;
+  list-style-type: none;
+}
+
+.hero-main h1 {
+  font-size: 48px;
+  color: #F9FAF8;
+  font-weight: 900;
+}
