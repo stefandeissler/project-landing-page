@@ -93,3 +93,45 @@ button {
   justify-content: center;
   align-items: center;
 }
+
+.information {
+  color: #1F2937;
+  background-color: #F9FAF8;
+  display: flex;
+  flex-direction: column;
+  padding: 10px 100px;
+}
+
+.information h2 {
+  font-weight: 900;
+  width: 100%;
+  text-align: center;
+  padding: 0;
+  margin: 0;
+}
+
+.info-bar {
+  display: flex;
+  flex-direction: row;
+  gap: 20px;
+  justify-content: center;
+}
+
+.pair {
+  display: flex;
+  flex-direction: column;
+  flex: 0 0 50px;
+}
+
+.illustration {
+  width: 50px;
+  height: 50px;
+  border: 1px solid #3882F6;
+  border-radius: 10px;
+}
+
+.info-text {
+  font-size: 18px;
+  text-align: center;
+  text-wrap: wrap;
+}
