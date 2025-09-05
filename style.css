@@ -154,6 +154,7 @@ button {
   font-weight: 300;
   text-align: left;
   text-wrap: wrap;
+  font-style: italic;
 }
 
 .attribution {
