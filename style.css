@@ -199,3 +199,14 @@ button {
   margin: 0;
   padding: 0;
 }
+
+.footer {
+  display: flex;
+  flex-direction: column;
+  min-width: 100vh;
+  color: #F9FAF8;
+  background-color: #1F2937;
+  justify-content: center;
+  align-items: center;
+  font-size: 18px;
+}
