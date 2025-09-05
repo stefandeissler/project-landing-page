@@ -139,3 +139,24 @@ button {
   text-align: center;
   text-wrap: wrap;
 }
+
+.highlight {
+  display: flex;
+  flex-direction: column;
+  background-color: #E5E7EB;
+  min-width: 100vh;
+  padding: 50px 100px 50px 100px;
+}
+
+.quote {
+  font-size: 36px;
+  color: #1F2937;
+  font-weight: 300;
+  text-align: left;
+  text-wrap: wrap;
+}
+
+.attribution {
+  font-size: 18px;
+  text-align: right;
+}
