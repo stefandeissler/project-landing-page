@@ -163,3 +163,33 @@ button {
   font-weight: 900;
   text-align: right;
 }
+
+.cta {
+  display: flex;
+  flex-direction: row;
+  background-color: #3882F6;
+  color: #F9FAF8;
+  margin: 20px 100px 20px 100px;
+  padding: 20px 50px 20px 50px;
+  gap: 50px;
+}
+
+.cta-text {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: flex-start;
+}
+
+.cta-text h3 {
+  font-size: 36px;
+  font-weight: 900;
+  margin: 0;
+  padding: 0;
+}
+
+.cta-text p {
+  font-size: 18px;
+  margin: 0;
+  padding: 0;
+}
